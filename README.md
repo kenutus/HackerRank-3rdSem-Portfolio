@@ -1,7 +1,7 @@
 # HackerRank 3rd-Semester Problem-Solving Portfolio
 
 **Student:** Abhik · **SRN:** R25EF003 · REVA University, School of CSE
-**HackerRank profile:** https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME
+**HackerRank profile:** https://www.hackerrank.com/profile/bhuniadebashis31
 **Language:** C++17
 
 This repository holds my solutions to the five mandatory HackerRank problems for
